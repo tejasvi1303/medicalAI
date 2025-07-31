@@ -1,0 +1,14 @@
+flask
+gradio
+pandas
+scikit-learn
+joblib
+pyttsx3
+pyaudio
+nltk
+opencv-python
+tensorflow
+Pillow
+speechrecognition
+gtts
+pydub
